@@ -1,2 +1,2 @@
-# TensorFlow_Medical_Insurance_Premium_Prediction
+# Neural Network Regression with TensorFlow - Medical Insurance Premium Prediction
 Medical Insurance Predictions
