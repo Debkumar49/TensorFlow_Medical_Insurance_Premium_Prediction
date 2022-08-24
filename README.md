@@ -62,5 +62,5 @@ Two of the main metrics used for regression problems are:
 `Mean squared error (MSE)` - the squared mean difference between of the predictions (use if larger errors are more detrimental than smaller errors).
 
 
-`To see the code and for pull request(to improve code) click on the .ipynb file on the repo   **or**  [**click here**](https://github.com/Debkumar49/TensorFlow_Medical_Insurance_Premium_Prediction/blob/main/Medical_Insurance_Premium_Prediction.ipynb) to see the code. `
+### `To see the code and for pull request(to improve code) click on the .ipynb file on the repo ` **or** [**click here**](https://github.com/Debkumar49/TensorFlow_Medical_Insurance_Premium_Prediction/blob/main/Medical_Insurance_Premium_Prediction.ipynb) `to see the code.`
 
