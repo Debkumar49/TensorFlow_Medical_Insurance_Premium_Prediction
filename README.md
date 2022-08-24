@@ -23,14 +23,6 @@ Linear Regression is a supervised learning technique that involves learning the 
           - Looking at training curves
         - Saving a model (so we can use it later)
         
-        
-## Split data into training/test set
-* `Training set` - the model learns from this data, which is typically 70-80% of the total data available (like the course materials you study during the semester).
-
-* `Validation set` - the model gets tuned on this data, which is typically 10-15% of the total data available (like the practice exam you take before the final exam).
-
-* `Test set` - the model gets evaluated on this data to test what it has learned, it's typically 10-15% of the total data available (like the final exam you take at the end of the semester).
-        
 ## Architecture of Regression Neural Network.
 
 | **Hyperparameter**  | **Typical Values** |
@@ -43,6 +35,14 @@ Linear Regression is a supervised learning technique that involves learning the 
 | Output activation  | None, ReLU, logistic/tanh  |
 | Loss function  | [MSE](https://en.wikipedia.org/wiki/Mean_squared_error) (mean square error) or [MAE](https://en.wikipedia.org/wiki/Mean_absolute_error) (mean absolute error)/Huber (combination of MAE/MSE) if outliers  |
 | Optimizer  | [SGD](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/SGD) (stochastic gradient descent), [Adam](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam)  |
+
+## Split data into training/test set
+* `Training set` - the model learns from this data, which is typically 70-80% of the total data available (like the course materials you study during the semester).
+
+* `Validation set` - the model gets tuned on this data, which is typically 10-15% of the total data available (like the practice exam you take before the final exam).
+
+* `Test set` - the model gets evaluated on this data to test what it has learned, it's typically 10-15% of the total data available (like the final exam you take at the end of the semester).
+
 
 
 ## Steps in Modelling with TensorFlow
