@@ -56,5 +56,6 @@ In TensorFlow, there are typically 3 fundamental steps to creating and training 
 ## Evaluating Predictions
 Two of the main metrics used for regression problems are:
 
-Mean absolute error (MAE) - the mean difference between each of the predictions.
-Mean squared error (MSE) - the squared mean difference between of the predictions (use if larger errors are more detrimental than smaller errors).
+`Mean absolute error (MAE)` - the mean difference between each of the predictions.
+
+`Mean squared error (MSE)` - the squared mean difference between of the predictions (use if larger errors are more detrimental than smaller errors).
