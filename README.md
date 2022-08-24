@@ -21,7 +21,6 @@ Linear Regression is a supervised learning technique that involves learning the 
         - Evaluating a model
           - Visualizng the model (\"visualize, visualize, visualize\")
           - Looking at training curves
-          - Compare predictions to ground truth (using our evaluation metrics)
         - Saving a model (so we can use it later)
         
         
